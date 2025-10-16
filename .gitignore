@@ -1,0 +1,16 @@
+/release/*
+!/release/*.xml
+
+/mods
+/files/gui/psd
+/files/previews/example.psd
+
+**/*.log
+**/*.lnk
+**/ImgSize-*
+**/ImgsSize.txt
+
+*.wotreplay
+*.wotmod
+
+todo.txt

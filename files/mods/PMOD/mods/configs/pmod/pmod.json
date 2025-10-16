@@ -1,0 +1,48 @@
+
+/* 
+	
+	Главный конфигурационный файл.
+	
+	Синтаксис конфига JSON http://goo.gl/zUTTCX
+	// - комментирование строки
+	Подключение файлов с помощью ссылок:
+	${"путь_к_файлу"}
+	
+	Кодировка файла должна оставаться всегда UTF-8.
+	Для редактирования используйте Notepad++ http://goo.gl/6MeL2D
+	В случае блокнота Windows: Сохранить как -> Кодировка: UTF-8.
+	
+	Большинство настроек внешнего вида некоторых модулей/функций вынесены в файл скина.
+	Для более детального ознакомления откройте файл skins/skinLoader.json
+	
+	
+	
+	The main configuration file.
+	
+	Syntax config JSON http://goo.gl/ekFb3H
+	// - сomment line
+	Connection files using links:
+	${"file_path"}
+	
+	Encoding file must remain always UTF-8.
+	To modify, use Notepad++ http://goo.gl/6MeL2D
+	In the case of notebook Windows: Save As -> Encoding: UTF-8.
+	
+	Most of the appearance settings of certain modules/functions delivered in the skin file. 
+	For more detailed information, open the file skins/skinLoader.json
+	
+*/
+
+
+
+// Однофайловая версия конфига
+// Single-file version of the config
+//
+// ${"_single.json"}
+
+
+
+// Многофайловая версия конфига
+// Multi-file version of the config
+ 
+ ${"_multiple.json"} 
