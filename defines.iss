@@ -27,7 +27,7 @@
 #define GAME_SHORT_NAME_LESTA "MT"
 #define GAME_SHORT_NAME_WG "WoT"
 
-#define XVM_Adress "xvm_13.0.0_0050"                ; имя новой папки с XVM в модах у меня на пк
+#define XVM_Adress "xvm_13.0.0_0055"                ; имя новой папки с XVM в модах у меня на пк
 #define vPMOD "PMOD"                       ; имя новой папки версия PMOD
 
 
